@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  * Created by addamaraju on 1/14/2016.
  */
-//first comment
+//Hi
 @SpringBootApplication(exclude = {JpaRepositoriesAutoConfiguration.class, FreeMarkerAutoConfiguration.class,
         ThymeleafAutoConfiguration.class})
 @MapperScan("com.copart.g2.member.dao.db")
